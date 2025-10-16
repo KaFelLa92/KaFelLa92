@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**KaFelLa92/KaFelLa92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🇰🇷 Korean
+### 🌶️ 소개
+매콤한 나라 대한민국에서 살아남는데 도움 될 웹 서비스를 만듭니다.
 
-Here are some ideas to get you started:
+### 🛠️ 기술스택
+- **Backend:** Spring, MySQL
+- **Frontend:** React, JS, Html, css, jsp
+- **Tool:** Figma, Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 주요 프로젝트
+- **[공연5분전(Stand by Five Minute Ago)](https://github.com/yeonwooshin1/stand_by_five_minutes_ago)**
+- **[재밌는한국어(Say Korean)](https://github.com/rutaku12rutaku12/sayKorean)**
+
+### 📚 학습 중
+- React
+- Next.js
+
+### 📫 연락처
+- **Email:** choidj10@gmail.com
+- **Blog:** https://airead.tistory.com/
+
+---
+
+### 🇺🇸 English
+### 🌶️ Introduction
+I create web services that help people survive in the spicy country of South Korea.
+
+### 🛠️ Tech Stack
+- **Backend:** Spring, MySQL
+- **Frontend:** React, JS, Html, css, jsp
+- **Tool:** Figma, Github
+
+### 🚀 Main Projects
+- **[Stand by Five Minute Ago](https://github.com/yeonwooshin1/stand_by_five_minutes_ago)**
+- **[Say Korean](https://github.com/rutaku12rutaku12/sayKorean)**
+
+### 📚 Currently Learning
+- React
+- Next.js
+
+### 📫 Contact
+- **Email:** choidj10@gmail.com
+- **Blog:** https://airead.tistory.com/
