@@ -11,7 +11,9 @@
 
 ### 🚀 주요 프로젝트
 - **[공연5분전(Stand by Five Minute Ago)](https://github.com/yeonwooshin1/stand_by_five_minutes_ago)**
+- 출장·공연 업무관리 생산성 증진 프로그램
 - **[재밌는한국어(Say Korean)](https://github.com/rutaku12rutaku12/sayKorean)**
+- 해외문화권 사용자 대상 한국어 및 문화 교육 서비스
 
 ### 📚 학습 중
 - React
@@ -34,7 +36,9 @@ I create web services that help people survive in the spicy country of South Kor
 
 ### 🚀 Main Projects
 - **[Stand by Five Minute Ago](https://github.com/yeonwooshin1/stand_by_five_minutes_ago)**
+- Business trip/performance management productivity promotion program
 - **[Say Korean](https://github.com/rutaku12rutaku12/sayKorean)**
+- Korean language and culture education services for overseas cultural users
 
 ### 📚 Currently Learning
 - React
