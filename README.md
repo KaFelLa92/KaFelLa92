@@ -59,7 +59,7 @@ I create web services that help people thrive in the spicy country of South Kore
 - **[Say Korean](https://github.com/KaFelLa92/sayKorean)**  
   Korean language & culture education service for global learners  
 - **[Say Korean App-Spring](https://github.com/KaFelLa92/sayKoreanApp)**
-  **[Say Korean App-Flutter](https://github.com/KaFelLa92/saykoreanapp_f)**<br>
+- **[Say Korean App-Flutter](https://github.com/KaFelLa92/saykoreanapp_f)**<br>
   Mobile app version of the Korean language & culture learning service for global users  
 
 ---
